@@ -94,7 +94,7 @@ for i, mhs in enumerate(data_mahasiswa, start=1):
 
 ## Contoh Output
 
-![Output](/code&output/output.png)
+![Output](/sspemrohafi.png)
 
 ## Catatan: 
 - Format tabel disesuaikan agar data lebih mudah dibaca.
